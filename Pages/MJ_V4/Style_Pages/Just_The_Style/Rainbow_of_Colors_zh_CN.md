@@ -158,7 +158,7 @@
 		<td><img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/LightGreen.webp?raw=true" width=128 /><p><code>LightGreen 鲜艳绿色</code></p></td>
 		<td><img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/LawnGreen/LawnGreen.webp?raw=true" width=128 /><p><code>LawnGreen 草绿色</code></p></td>
 		<td><img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/Light_Green.webp?raw=true" width=128 /><p><code>Light_Green 浅绿色</code></p></td>
-		<td><img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/PaleGreen.webp?raw=true" width=128 /><p><code>PaleGreen 苍绿色</code></p></td>
+		<td><img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/PaleGreen.webp?raw=true" width=128 /><p><code>PaleGreen 淡苍绿色</code></p></td>
 	</tr>
 	<tr align=center valign=middle>
 		<td><img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Green/ForestGreen/Light_ForestGreen.webp?raw=true" width=128 /><p><code>Light_ForestGreen 浅森林绿</code></p></td>
@@ -188,7 +188,7 @@
 		<td><img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/Turquoise/DarkTurquoise.webp?raw=true" width=128 /><p><code>DarkTurquoise 暗孔雀绿</code></p></td>
 		<td><img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/Turquoise/MediumTurquoise.webp?raw=true" width=128 /><p><code>MediumTurquoise 中孔雀绿</code></p></td>
 		<td><img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/Turquoise/Turquoise.webp?raw=true" width=128 /><p><code>Turquoise 孔雀绿</code></p></td>
-		<td><img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/Turquoise/PaleTurquoise.webp?raw=true" width=128 /><p><code>PaleTurquoise 浅孔雀绿</code></p></td>
+		<td><img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/Turquoise/PaleTurquoise.webp?raw=true" width=128 /><p><code>PaleTurquoise 淡孔雀绿</code></p></td>
 		<td><img src="/Images/MJ_V4/V4_Alpha_3.5/Midjourney_Styles/Colors/Teal/SeaGreen/LightSeaGreen.webp?raw=true" width=128 /><p><code>LightSeaGreen 浅海绿色</code></p></td>
 		<td>-</td>
 	</tr>
