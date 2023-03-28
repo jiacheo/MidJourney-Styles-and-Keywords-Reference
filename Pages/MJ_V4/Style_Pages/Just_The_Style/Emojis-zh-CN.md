@@ -12,7 +12,7 @@
 
 - <details><summary>😊 Smileys 笑脸</summary><p><div align="center">
 
-	| <br>👻<p><div align="center"><i><h6>Ghost 鬼魂头</h6></i></div></p> | <br>💀<p><div align="center"><i><h6>Skull 骷髅头</h6></i></div></p> |
+	| <br>👻<p><div align="center"><i><h6>Ghost 鬼魂</h6></i></div></p> | <br>💀<p><div align="center"><i><h6>Skull 骷髅头</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Emojis/Smileys/Ghost.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Emojis/Smileys/Skull.webp?raw=true" width="256" /> |
 	
@@ -24,7 +24,7 @@
 	
 	<br>
 	
-	| <br>👽<p><div align="center"><i><h6>Extraterrestrial Alien 外星人</h6></i></div></p> | <br>👾<p><div align="center"><i><h6>Alien Monster 外形怪兽</h6></i></div></p> |
+	| <br>👽<p><div align="center"><i><h6>Extraterrestrial Alien 外星人</h6></i></div></p> | <br>👾<p><div align="center"><i><h6>Alien Monster 外星怪兽</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Emojis/Smileys/Extraterrestrial_Alien.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Emojis/Smileys/Alien_Monster.webp?raw=true" width="256" /> |
 	
