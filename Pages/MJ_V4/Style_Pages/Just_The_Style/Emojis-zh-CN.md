@@ -144,7 +144,7 @@
 
 - <details><summary>☄ Outer Space 外太空</summary><p><div align="center">
 
-	| <br>🌌<p><div align="center"><i><h6>Milky Way 银河系</h6></i></div></p> | <br>🪐<p><div align="center"><i><h6>Ringed Planet 行星环</h6></i></div></p> |
+	| <br>🌌<p><div align="center"><i><h6>Milky Way 银河系</h6></i></div></p> | <br>🪐<p><div align="center"><i><h6>Ringed Planet 行星环绕</h6></i></div></p> |
 	| :-: | :-: |
 	| <img src="/Images/MJ_V4/V4_Alpha_3.6/Emojis/Outer_Space/Milky_Way.webp?raw=true" width="256" /> | <img src="/Images/MJ_V4/V4_Alpha_3.6/Emojis/Outer_Space/Ringed_Planet.webp?raw=true" width="256" /> |
 	
