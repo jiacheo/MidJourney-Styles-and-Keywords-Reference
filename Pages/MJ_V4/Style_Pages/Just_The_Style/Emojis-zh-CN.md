@@ -10,7 +10,7 @@
 <br>
 
 
-- <details><summary>😊 Smileys 笑脸</summary><p><div align="center">
+- <details><summary>😊 Smileys 表情</summary><p><div align="center">
 
 	| <br>👻<p><div align="center"><i><h6>Ghost 鬼魂</h6></i></div></p> | <br>💀<p><div align="center"><i><h6>Skull 骷髅头</h6></i></div></p> |
 	| :-: | :-: |
